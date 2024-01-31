@@ -1,0 +1,10 @@
+﻿  2-Variables.cpp
+C:\Users\s232404\source\repos\31-01-2024 Test-1\31-01-2024 Test-1\2-Variables.cpp(7,53): error C2882: 'std': illegal use of namespace identifier in expression
+C:\Users\s232404\source\repos\31-01-2024 Test-1\31-01-2024 Test-1\2-Variables.cpp(7,53): error C2143: syntax error: missing ';' before ':'
+C:\Users\s232404\source\repos\31-01-2024 Test-1\31-01-2024 Test-1\2-Variables.cpp(7,53): error C2059: syntax error: ':'
+C:\Users\s232404\source\repos\31-01-2024 Test-1\31-01-2024 Test-1\2-Variables.cpp(9,67): error C2882: 'std': illegal use of namespace identifier in expression
+C:\Users\s232404\source\repos\31-01-2024 Test-1\31-01-2024 Test-1\2-Variables.cpp(9,67): error C2143: syntax error: missing ';' before ':'
+C:\Users\s232404\source\repos\31-01-2024 Test-1\31-01-2024 Test-1\2-Variables.cpp(9,67): error C2059: syntax error: ':'
+C:\Users\s232404\source\repos\31-01-2024 Test-1\31-01-2024 Test-1\2-Variables.cpp(11,15): error C2001: newline in constant
+C:\Users\s232404\source\repos\31-01-2024 Test-1\31-01-2024 Test-1\2-Variables.cpp(12,8): error C2143: syntax error: missing ';' before 'std::cin'
+C:\Users\s232404\source\repos\31-01-2024 Test-1\31-01-2024 Test-1\2-Variables.cpp(4): fatal  error C1075: '{': no matching token found
