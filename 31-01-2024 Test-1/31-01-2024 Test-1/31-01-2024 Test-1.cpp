@@ -6,6 +6,12 @@
 int main()
 {
     int numberOfOdds = 15;
+
+    return ;
+    {
+        //function-body
+
+    }
     int total = numberOfOdds * numberOfOdds;
 
     std::cout << "Total of the First " << numberOfOdds << " odd numbers is " << total << std::endl;
